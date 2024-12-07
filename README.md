@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/mynByjB/Make-your-README-1.png" alt="Make-your-README-1" border="0">
+<img src="https://i.ibb.co/mGMGBRF/Make-your-README-1.png" alt="Make-your-README-1" border="0">
 </p>
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
 <h3 align="center">"Crafting Digital Experiences with Code and Creativity." 🎓 Software Engineering Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. 💻 Frontend Developer passionate about creating beautiful and functional user interfaces. 🌟 Always learning and exploring new technologies to enhance my skills.</h3>
