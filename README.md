@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="[https://your-banner-image-url.com/banner.png](https://www.figma.com/design/ZGF6KMVjSwEUoceB6hyo3y/README-Github-Banner-(Community)?node-id=0-67&node-type=frame&t=K19CU4l03KRBstCA-0)" alt="Banner" />
-</p>
+
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
 <h3 align="center">"Crafting Digital Experiences with Code and Creativity." 🎓 Software Engineering Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. 💻 Frontend Developer passionate about creating beautiful and functional user interfaces. 🌟 Always learning and exploring new technologies to enhance my skills.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3ad782101508297.5f2067d651772.png/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warunadhananjana&label=Profile%20views&color=0e75b6&style=flat" alt="warunadhananjana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warunadhananjana" alt="warunadhananjana" /></a> </p>
