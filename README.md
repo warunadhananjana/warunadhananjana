@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGYlQL9YG8/8HeVQ1KdRuDcHg5ZA_mMxA/view](https://imgur.com/a/5Eh6ZhW" alt="Banner" />
+ <img src="https://i.ibb.co/PZpqFGx/Black-Elegant-Minimalist-Profile-Linked-In-Banner-1.png" alt="Black-Elegant-Minimalist-Profile-Linked-In-Banner-1" border="0">
 </p>
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
 <h3 align="center">"Crafting Digital Experiences with Code and Creativity." 🎓 Software Engineering Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. 💻 Frontend Developer passionate about creating beautiful and functional user interfaces. 🌟 Always learning and exploring new technologies to enhance my skills.</h3>
