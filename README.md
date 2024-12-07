@@ -1,5 +1,5 @@
 <p align="center">
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/ZGF6KMVjSwEUoceB6hyo3y/README-Github-Banner-(Community)?node-id=0-67&embed-host=share" allowfullscreen></iframe>
+<img src="https://i.ibb.co/mynByjB/Make-your-README-1.png" alt="Make-your-README-1" border="0">
 </p>
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
 <h3 align="center">"Crafting Digital Experiences with Code and Creativity." 🎓 Software Engineering Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. 💻 Frontend Developer passionate about creating beautiful and functional user interfaces. 🌟 Always learning and exploring new technologies to enhance my skills.</h3>
