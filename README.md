@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.ibb.co/JBQNstj/Black-Elegant-Minimalist-Profile-Linked-In-Banner-2.png">
+ <img src="https://www.figma.com/proto/ZGF6KMVjSwEUoceB6hyo3y/README-Github-Banner-(Community)?node-id=0-67&t=K19CU4l03KRBstCA-1">
 </p>
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
 <h3 align="center">"Crafting Digital Experiences with Code and Creativity." 🎓 Software Engineering Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. 💻 Frontend Developer passionate about creating beautiful and functional user interfaces. 🌟 Always learning and exploring new technologies to enhance my skills.</h3>
