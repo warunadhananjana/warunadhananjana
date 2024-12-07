@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
 <h3 align="center">"Crafting Digital Experiences with Code and Creativity." 🎓 Software Engineering Student at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. 💻 Frontend Developer passionate about creating beautiful and functional user interfaces. 🌟 Always learning and exploring new technologies to enhance my skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/3ad782101508297.5f2067d651772.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warunadhananjana&label=Profile%20views&color=0e75b6&style=flat" alt="warunadhananjana" /> </p>
 
