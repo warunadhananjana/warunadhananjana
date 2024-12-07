@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 800px;" src="https://i.ibb.co/mGMGBRF/Make-your-README-1.png" alt="Make-your-README-1" border="0">
+  <img style="width: 1200px;" src="https://i.ibb.co/mGMGBRF/Make-your-README-1.png" alt="Make-your-README-1" border="0">
 </p>
 
 <h1 align="center">Hi 👋, I'm waruna dhananjana</h1>
